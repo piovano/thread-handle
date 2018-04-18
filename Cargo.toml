@@ -1,0 +1,10 @@
+[package]
+name = "thread-handle"
+version = "0.1.0"
+authors = ["Piovano <piovano@outlook.com>"]
+readme = "README.md"
+description = "Rust library to handle thread."
+repository = "https://github.com/DenisKolodin/thread-control"
+license = "WTFPL"
+
+[dependencies]
